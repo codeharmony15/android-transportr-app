@@ -1,0 +1,4 @@
+* Show exact trip polylines on map for more networks
+* Fix VGS network (Thanks Mikolai!)
+* Fix crash on opening settings (Thanks Mikolai!)
+* New translation: Swedish (Thanks Jonatan!)
